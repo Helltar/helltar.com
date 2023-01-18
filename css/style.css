@@ -1,0 +1,37 @@
+body {
+    color: #fff;
+    font-size: 150%;
+    font-family: Verdana, sans-serif;
+    line-height: 200%;
+    margin: 0;
+}
+
+a:link {
+    color: #fff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #999;
+}
+
+a:visited {
+    color: #999;
+}
+
+.avatar {
+    border-radius: 50%;
+}
+
+.body-particles {
+    position: absolute;
+    top: 5%;
+    left: 20%;
+}
+
+#particles-js {
+    background: black;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+}
